@@ -1,9 +1,7 @@
 # Citeback Privacy Policy
 
 Effective date: October 15, 2026
-
 Publisher: Louis Liberty LLC
-
 Contact: thelouisliberty@gmail.com
 
 Citeback is a Chrome extension that saves text you copy on webpages so you can search it and copy it again. This policy explains what it handles and what it does not.
